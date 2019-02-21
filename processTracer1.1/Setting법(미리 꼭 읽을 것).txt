@@ -1,0 +1,10 @@
+****berfore Using this program , Set ****
+1. 속성[property] - 일반[general] -  문자집합[character Set] - 멀티문자집합[Use Multi-Byte]
+2. 프로젝트 생성 - ErrorSource.cpp , NormalSource.cpp 기존 파일 추가 
+2개의 파일은 processTrace1.1안에 있습니다. 
+3. commandline parameter(사용자 매개변수)설정
+속성[property] - 디버깅[debugging] - 명령인수[command arguments]
+(프로젝트 이름).exe   
+
+
+실행 잘 될겁니다.

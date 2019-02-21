@@ -1,0 +1,6 @@
+﻿  Error.cpp
+  Generating code
+c:\users\haha\documents\visual studio 2015\projects\processtracer1.3\error\error.cpp(7): warning C4723: potential divide by 0
+  All 2 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Finished generating code
+  Error.vcxproj -> C:\Users\haha\Documents\Visual Studio 2015\Projects\ProcessTracer1.3\Release\Error.exe

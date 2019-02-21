@@ -1,0 +1,7 @@
+﻿  SimpleSymbolEngine.cpp
+c:\program files (x86)\windows kits\8.1\include\um\dbghelp.h(1544): warning C4091: 'typedef ': 변수를 선언하지 않으면 '' 왼쪽은 무시됩니다.
+c:\program files (x86)\windows kits\8.1\include\um\dbghelp.h(3190): warning C4091: 'typedef ': 변수를 선언하지 않으면 '' 왼쪽은 무시됩니다.
+  ProcessTracer.cpp
+  코드를 생성하고 있습니다...
+  ProcessTracer1.1.vcxproj -> C:\Users\Hwang\Desktop\공부자료\processTracer collection\processTracer1.1\Debug\ProcessTracer1.1.exe
+  ProcessTracer1.1.vcxproj -> C:\Users\Hwang\Desktop\공부자료\processTracer collection\processTracer1.1\Debug\ProcessTracer1.1.pdb (Full PDB)
