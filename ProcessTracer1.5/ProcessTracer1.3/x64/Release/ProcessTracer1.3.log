@@ -1,0 +1,124 @@
+﻿  processTracer1.3.cpp
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\ntstatus.h(66): warning C4005: 'STATUS_WAIT_0': 매크로 재정의
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnt.h(2210): note: 'STATUS_WAIT_0'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\ntstatus.h(212): warning C4005: 'STATUS_ABANDONED_WAIT_0': 매크로 재정의
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnt.h(2211): note: 'STATUS_ABANDONED_WAIT_0'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\ntstatus.h(235): warning C4005: 'STATUS_USER_APC': 매크로 재정의
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnt.h(2212): note: 'STATUS_USER_APC'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\ntstatus.h(262): warning C4005: 'STATUS_TIMEOUT': 매크로 재정의
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnt.h(2213): note: 'STATUS_TIMEOUT'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\ntstatus.h(271): warning C4005: 'STATUS_PENDING': 매크로 재정의
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnt.h(2214): note: 'STATUS_PENDING'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\ntstatus.h(682): warning C4005: 'DBG_EXCEPTION_HANDLED': 매크로 재정의
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnt.h(2215): note: 'DBG_EXCEPTION_HANDLED'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\ntstatus.h(691): warning C4005: 'DBG_CONTINUE': 매크로 재정의
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnt.h(2216): note: 'DBG_CONTINUE'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\ntstatus.h(766): warning C4005: 'STATUS_SEGMENT_NOTIFICATION': 매크로 재정의
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnt.h(2217): note: 'STATUS_SEGMENT_NOTIFICATION'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\ntstatus.h(929): warning C4005: 'STATUS_FATAL_APP_EXIT': 매크로 재정의
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnt.h(2218): note: 'STATUS_FATAL_APP_EXIT'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\ntstatus.h(1258): warning C4005: 'DBG_TERMINATE_THREAD': 매크로 재정의
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnt.h(2219): note: 'DBG_TERMINATE_THREAD'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\ntstatus.h(1267): warning C4005: 'DBG_TERMINATE_PROCESS': 매크로 재정의
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnt.h(2220): note: 'DBG_TERMINATE_PROCESS'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\ntstatus.h(1276): warning C4005: 'DBG_CONTROL_C': 매크로 재정의
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnt.h(2221): note: 'DBG_CONTROL_C'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\ntstatus.h(1285): warning C4005: 'DBG_PRINTEXCEPTION_C': 매크로 재정의
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnt.h(2222): note: 'DBG_PRINTEXCEPTION_C'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\ntstatus.h(1294): warning C4005: 'DBG_RIPEXCEPTION': 매크로 재정의
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnt.h(2223): note: 'DBG_RIPEXCEPTION'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\ntstatus.h(1303): warning C4005: 'DBG_CONTROL_BREAK': 매크로 재정의
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnt.h(2224): note: 'DBG_CONTROL_BREAK'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\ntstatus.h(1312): warning C4005: 'DBG_COMMAND_EXCEPTION': 매크로 재정의
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnt.h(2225): note: 'DBG_COMMAND_EXCEPTION'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\ntstatus.h(1344): warning C4005: 'STATUS_GUARD_PAGE_VIOLATION': 매크로 재정의
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnt.h(2226): note: 'STATUS_GUARD_PAGE_VIOLATION'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\ntstatus.h(1355): warning C4005: 'STATUS_DATATYPE_MISALIGNMENT': 매크로 재정의
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnt.h(2227): note: 'STATUS_DATATYPE_MISALIGNMENT'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\ntstatus.h(1366): warning C4005: 'STATUS_BREAKPOINT': 매크로 재정의
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnt.h(2228): note: 'STATUS_BREAKPOINT'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\ntstatus.h(1377): warning C4005: 'STATUS_SINGLE_STEP': 매크로 재정의
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnt.h(2229): note: 'STATUS_SINGLE_STEP'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\ntstatus.h(1680): warning C4005: 'STATUS_LONGJUMP': 매크로 재정의
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnt.h(2230): note: 'STATUS_LONGJUMP'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\ntstatus.h(1707): warning C4005: 'STATUS_UNWIND_CONSOLIDATE': 매크로 재정의
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnt.h(2231): note: 'STATUS_UNWIND_CONSOLIDATE'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\ntstatus.h(1784): warning C4005: 'DBG_EXCEPTION_NOT_HANDLED': 매크로 재정의
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnt.h(2232): note: 'DBG_EXCEPTION_NOT_HANDLED'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\ntstatus.h(1913): warning C4005: 'STATUS_ACCESS_VIOLATION': 매크로 재정의
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnt.h(2233): note: 'STATUS_ACCESS_VIOLATION'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\ntstatus.h(1922): warning C4005: 'STATUS_IN_PAGE_ERROR': 매크로 재정의
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnt.h(2234): note: 'STATUS_IN_PAGE_ERROR'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\ntstatus.h(1940): warning C4005: 'STATUS_INVALID_HANDLE': 매크로 재정의
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnt.h(2235): note: 'STATUS_INVALID_HANDLE'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\ntstatus.h(1985): warning C4005: 'STATUS_INVALID_PARAMETER': 매크로 재정의
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnt.h(2236): note: 'STATUS_INVALID_PARAMETER'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\ntstatus.h(2085): warning C4005: 'STATUS_NO_MEMORY': 매크로 재정의
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnt.h(2237): note: 'STATUS_NO_MEMORY'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\ntstatus.h(2142): warning C4005: 'STATUS_ILLEGAL_INSTRUCTION': 매크로 재정의
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnt.h(2238): note: 'STATUS_ILLEGAL_INSTRUCTION'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\ntstatus.h(2223): warning C4005: 'STATUS_NONCONTINUABLE_EXCEPTION': 매크로 재정의
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnt.h(2239): note: 'STATUS_NONCONTINUABLE_EXCEPTION'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\ntstatus.h(2232): warning C4005: 'STATUS_INVALID_DISPOSITION': 매크로 재정의
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnt.h(2240): note: 'STATUS_INVALID_DISPOSITION'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\ntstatus.h(3155): warning C4005: 'STATUS_ARRAY_BOUNDS_EXCEEDED': 매크로 재정의
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnt.h(2241): note: 'STATUS_ARRAY_BOUNDS_EXCEEDED'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\ntstatus.h(3165): warning C4005: 'STATUS_FLOAT_DENORMAL_OPERAND': 매크로 재정의
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnt.h(2242): note: 'STATUS_FLOAT_DENORMAL_OPERAND'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\ntstatus.h(3175): warning C4005: 'STATUS_FLOAT_DIVIDE_BY_ZERO': 매크로 재정의
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnt.h(2243): note: 'STATUS_FLOAT_DIVIDE_BY_ZERO'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\ntstatus.h(3185): warning C4005: 'STATUS_FLOAT_INEXACT_RESULT': 매크로 재정의
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnt.h(2244): note: 'STATUS_FLOAT_INEXACT_RESULT'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\ntstatus.h(3195): warning C4005: 'STATUS_FLOAT_INVALID_OPERATION': 매크로 재정의
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnt.h(2245): note: 'STATUS_FLOAT_INVALID_OPERATION'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\ntstatus.h(3205): warning C4005: 'STATUS_FLOAT_OVERFLOW': 매크로 재정의
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnt.h(2246): note: 'STATUS_FLOAT_OVERFLOW'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\ntstatus.h(3215): warning C4005: 'STATUS_FLOAT_STACK_CHECK': 매크로 재정의
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnt.h(2247): note: 'STATUS_FLOAT_STACK_CHECK'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\ntstatus.h(3225): warning C4005: 'STATUS_FLOAT_UNDERFLOW': 매크로 재정의
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnt.h(2248): note: 'STATUS_FLOAT_UNDERFLOW'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\ntstatus.h(3235): warning C4005: 'STATUS_INTEGER_DIVIDE_BY_ZERO': 매크로 재정의
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnt.h(2249): note: 'STATUS_INTEGER_DIVIDE_BY_ZERO'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\ntstatus.h(3245): warning C4005: 'STATUS_INTEGER_OVERFLOW': 매크로 재정의
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnt.h(2250): note: 'STATUS_INTEGER_OVERFLOW'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\ntstatus.h(3255): warning C4005: 'STATUS_PRIVILEGED_INSTRUCTION': 매크로 재정의
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnt.h(2251): note: 'STATUS_PRIVILEGED_INSTRUCTION'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\ntstatus.h(4201): warning C4005: 'STATUS_STACK_OVERFLOW': 매크로 재정의
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnt.h(2252): note: 'STATUS_STACK_OVERFLOW'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\ntstatus.h(4718): warning C4005: 'STATUS_DLL_NOT_FOUND': 매크로 재정의
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnt.h(2253): note: 'STATUS_DLL_NOT_FOUND'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\ntstatus.h(4747): warning C4005: 'STATUS_ORDINAL_NOT_FOUND': 매크로 재정의
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnt.h(2254): note: 'STATUS_ORDINAL_NOT_FOUND'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\ntstatus.h(4757): warning C4005: 'STATUS_ENTRYPOINT_NOT_FOUND': 매크로 재정의
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnt.h(2255): note: 'STATUS_ENTRYPOINT_NOT_FOUND'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\ntstatus.h(4767): warning C4005: 'STATUS_CONTROL_C_EXIT': 매크로 재정의
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnt.h(2256): note: 'STATUS_CONTROL_C_EXIT'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\ntstatus.h(4845): warning C4005: 'STATUS_DLL_INIT_FAILED': 매크로 재정의
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnt.h(2257): note: 'STATUS_DLL_INIT_FAILED'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\ntstatus.h(7319): warning C4005: 'STATUS_FLOAT_MULTIPLE_FAULTS': 매크로 재정의
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnt.h(2258): note: 'STATUS_FLOAT_MULTIPLE_FAULTS'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\ntstatus.h(7329): warning C4005: 'STATUS_FLOAT_MULTIPLE_TRAPS': 매크로 재정의
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnt.h(2259): note: 'STATUS_FLOAT_MULTIPLE_TRAPS'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\ntstatus.h(7461): warning C4005: 'STATUS_REG_NAT_CONSUMPTION': 매크로 재정의
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnt.h(2260): note: 'STATUS_REG_NAT_CONSUMPTION'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\ntstatus.h(8435): warning C4005: 'STATUS_HEAP_CORRUPTION': 매크로 재정의
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnt.h(2261): note: 'STATUS_HEAP_CORRUPTION'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\ntstatus.h(8663): warning C4005: 'STATUS_STACK_BUFFER_OVERRUN': 매크로 재정의
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnt.h(2262): note: 'STATUS_STACK_BUFFER_OVERRUN'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\ntstatus.h(8790): warning C4005: 'STATUS_INVALID_CRUNTIME_PARAMETER': 매크로 재정의
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnt.h(2263): note: 'STATUS_INVALID_CRUNTIME_PARAMETER'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\ntstatus.h(8853): warning C4005: 'STATUS_ASSERTION_FAILURE': 매크로 재정의
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnt.h(2264): note: 'STATUS_ASSERTION_FAILURE'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\ntstatus.h(12894): warning C4005: 'STATUS_SXS_EARLY_DEACTIVATION': 매크로 재정의
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnt.h(2266): note: 'STATUS_SXS_EARLY_DEACTIVATION'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\8.1\Include\shared\ntstatus.h(12903): warning C4005: 'STATUS_SXS_INVALID_DEACTIVATION': 매크로 재정의
+  C:\Program Files (x86)\Windows Kits\8.1\Include\um\winnt.h(2267): note: 'STATUS_SXS_INVALID_DEACTIVATION'의 이전 정의를 참조하십시오.
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\dbghelp.h(1544): warning C4091: 'typedef ': 변수를 선언하지 않으면 '' 왼쪽은 무시됩니다.
+C:\Program Files (x86)\Windows Kits\8.1\Include\um\dbghelp.h(3190): warning C4091: 'typedef ': 변수를 선언하지 않으면 '' 왼쪽은 무시됩니다.
+  코드를 생성하고 있습니다.
+  0 of 897 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  코드를 생성했습니다.
+  ProcessTracer1.3.vcxproj -> C:\Users\Hwang\Desktop\프로젝트\ProcessTracer1.5\x64\Release\ProcessTracer1.3.exe
+  ProcessTracer1.3.vcxproj -> C:\Users\Hwang\Desktop\프로젝트\ProcessTracer1.5\x64\Release\ProcessTracer1.3.pdb (Full PDB)
